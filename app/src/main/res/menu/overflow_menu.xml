@@ -17,12 +17,7 @@
 
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
-
     <item
-        android:id="@+id/share"
-        android:enabled="true"
-        android:icon="@drawable/share"
-        android:title="@string/share"
-        android:visible="true"
-        app:showAsAction="ifRoom" />
+        android:id="@+id/aboutFragment"
+        android:title="@string/about" />
 </menu>
